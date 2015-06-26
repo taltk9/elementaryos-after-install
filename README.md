@@ -84,5 +84,5 @@ These shortcuts are extremely useful, using them makes a lot of things quicker a
 
 #References
 
-[1] [http://lmelinux.net/elementary-tweaks/](http://lmelinux.net/elementary-tweaks/)
-[2] [http://lmelinux.net/2014/07/26/elementary-os-keyboard-shortcuts/](http://lmelinux.net/2014/07/26/elementary-os-keyboard-shortcuts/)
+* [http://lmelinux.net/elementary-tweaks/](http://lmelinux.net/elementary-tweaks/)
+* [http://lmelinux.net/2014/07/26/elementary-os-keyboard-shortcuts/](http://lmelinux.net/2014/07/26/elementary-os-keyboard-shortcuts/)
