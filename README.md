@@ -82,7 +82,16 @@ These shortcuts are extremely useful, using them makes a lot of things quicker a
   </tbody>
 </table>
 
+##Custom Keyboard Shortcuts
+
+The Keyboard settings pane brings a new section “Custom” under the “Shortcuts” tab.
+
+<figure class="tmblr-full" data-orig-height="640" data-orig-width="1011">
+  <img src="http://36.media.tumblr.com/daac4eb206e197811b21a7bea28421c1/tumblr_inline_norh6aEcT91qaqqso_500.png" data-orig-height="640" data-orig-width="1011" width="500" height="316">
+</figure>
+
 #References
 
 * [http://lmelinux.net/elementary-tweaks/](http://lmelinux.net/elementary-tweaks/)
 * [http://lmelinux.net/2014/07/26/elementary-os-keyboard-shortcuts/](http://lmelinux.net/2014/07/26/elementary-os-keyboard-shortcuts/)
+* [http://blog.elementary.io/post/119612714681/custom-keyboard-shortcuts-are-here](http://blog.elementary.io/post/119612714681/custom-keyboard-shortcuts-are-here)
