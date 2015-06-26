@@ -77,6 +77,10 @@ These shortcuts are extremely useful, using them makes a lot of things quicker a
       <td>Resize Window</td>
     </tr>
     <tr>
+      <td><strong>⌘+S</strong></td>
+      <td>Open Terminal</td>
+    </tr>
+    <tr class="alt">
       <td colspan="2"><strong>⌘</strong> = Super (Windows or Command key), <strong>⇧</strong> = Shift</td>
     </tr>
   </tbody>
