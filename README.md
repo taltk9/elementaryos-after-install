@@ -77,7 +77,7 @@ These shortcuts are extremely useful, using them makes a lot of things quicker a
       <td>Resize Window</td>
     </tr>
     <tr>
-      <td><strong>⌘+S</strong></td>
+      <td><strong>⌘+T/strong></td>
       <td>Open Terminal</td>
     </tr>
     <tr class="alt">
