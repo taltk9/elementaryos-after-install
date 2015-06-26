@@ -1,0 +1,2 @@
+# elementaryos-after-install
+THINGS TO DO AFTER INSTALLING ELEMENTARY OS
